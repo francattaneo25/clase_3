@@ -1,2 +1,2 @@
 git -> solo muestra el estado actual
-git -> agrega 
+git add .-> agrega todos los archivos que no estaban trackeados 
